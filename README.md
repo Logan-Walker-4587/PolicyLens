@@ -35,7 +35,7 @@ Some sample sceenshots
 ![Summarize - Image](img/screenshot_image.png)
 
 
-![Summarize - Image](img/screenshot.png)
+![Summarize - Image2](img/screenshot.png)
 
 ### Translate
 
