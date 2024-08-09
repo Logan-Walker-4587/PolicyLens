@@ -35,7 +35,7 @@ Some sample sceenshots
 ![Summarize - Image](img/screenshot_image.png)
 
 
-![Summarize - Image]("img/Screenshot 2024-08-09 200634.png")
+![Summarize - Image](img/screenshot.png)
 
 ### Translate
 
