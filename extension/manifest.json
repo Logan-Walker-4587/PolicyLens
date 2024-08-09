@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "PolicyLens",
+  "version": "1.3.8",
+  "description": "PolicyLens",
+  "default_locale": "en",
+  "icons": {
+    "128": "img/icon-128.png"
+  },
+  "author": "sh2@pop01.odn.ne.jp",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "options_page": "options.html",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ]
+}
